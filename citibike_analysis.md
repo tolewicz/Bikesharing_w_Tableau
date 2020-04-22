@@ -6,6 +6,12 @@ The CitiBike analysis is done to answer the questions if it is feasible to estab
 ##Manhattan, NYC 
 The Manhattan has a vast network of 794 CitiBike stations that serves about 1.6 million population (Slide 2). Every day there are more than 2 million bike trips across the island with the peak times at 8AM and 5PM (Slide 3).
 
+<p align="center">
+<img src="https://github.com/tolewicz/surfs_up/blob/master/Images/Table1.PNG" width="450" height= "150">
+</p>
+
+Table. 1. Statistical key values for June and December (2010-2017)
+
 The population of Manhattan and impact on CitiBike Business (Slide4),
 Most of residents of the Manhattan are between 18-65 years old, which is the productive age. The second largest group is >65 year old and third is 5-18 years old. The smallest group is <5 years old. That population diversity impacts CitiBike income structure. The subscription population is dominated by group, 18-65 yo which is considered as productive age. Also, the trip duration distribution is dominated by the same group. Thus to be successful CitiBikes should look for society with similar age distribution.
 
