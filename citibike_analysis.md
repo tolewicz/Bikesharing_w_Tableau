@@ -76,6 +76,6 @@ Slide 8. Income comparison Des Moines and Manhattan,NYC
 https://www.icip.iastate.edu/tables/business/establishment-size - employer estimation for Des Moines
 https://www.bls.gov/eag/eag.ia_desmoines_msa.htm US Bureau of Labor Statistics 
 https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/PST045219 - Census info comparing NYC and Des Moines
-https://www.icip.iastate.edu/tables/business/establishment-size - Employment analysis of Des Moines
+https://www.icip.iastate.edu/tables/business/establishment-size - Employment analysis of Des Moines Iowa State University
 
 
