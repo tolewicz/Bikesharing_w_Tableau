@@ -7,7 +7,7 @@ The CitiBike analysis is done to answer the questions if it is feasible to estab
 The Manhattan has a vast network of 794 CitiBike stations that serves about 1.6 million population (Slide 2). Every day there are more than 2 million bike trips across the island with the peak times at 8AM and 5PM (Slide 3).
 
 <p align="center">
-<img src="https://github.com/tolewicz/surfs_up/blob/master/Images/Table1.PNG" width="450" height= "150">
+<img src="https://github.com/tolewicz/tolewicz-bikesharing/blob/master/Images/Slide2.JPG" width="450" height= "150">
 </p>
 
 Table. 1. Statistical key values for June and December (2010-2017)
