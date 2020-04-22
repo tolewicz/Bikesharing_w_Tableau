@@ -1,10 +1,12 @@
 # Citi Bike Analysis
 
-##Abstract
+Link to Tableau document:
+https://public.tableau.com/profile/tomasz7229#!/vizhome/CitiBike_15873788152240/Introductionw_NYC?publish=yes
+
+## Abstract
 The CitiBike analysis is done to answer the questions if it is feasible to establish CitiBike branch the city of Des Moines. The analysis looks at population distribution, gender diversity and age distribution of Manhattan, NYC which already has successful network of profitable CitiBike stations. After thorough analysis is done on Manhattan population, I compare the population and other key factors between Des Moines and Manhattan to assess potential risks for the investment. Based on this analysis, investment in Des Moines seem to be a risky move.
 
-Link to publich Tableau document:
-[https://public.tableau.com/profile/tomasz7229#!/vizhome/CitiBike_15873788152240/Introductionw_NYC?publish=yes]
+
 
 ## Manhattan, NYC (Slide 2,3)
 The Manhattan has a vast network of 794 CitiBike stations that serves about 1.6 million population (Slide 2). Every day there are more than 2 million bike trips across the island with the peak times at 8AM and 5PM.
