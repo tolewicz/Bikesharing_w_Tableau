@@ -6,8 +6,6 @@ Using Tableau software to perform data analysis
 ## Project Overview
 Using Tableau software to perform data analysis for CitiBike corporation. The analysis is conducted based on researched and provided data bases. The data is supplied to Tableau to determine relations base on which I determine if investment in Des Moines to open CitiBike branch is a good idea.
 
-## Module challenge
-Complete the analysis and write the report
 
 # Citi Bike Analysis
 
